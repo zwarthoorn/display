@@ -1,0 +1,11 @@
+section{
+	width:600px;
+	margin: auto;
+	background: black;
+}
+#box{
+	width:600px;
+}
+#displayfield{
+	background: white;
+}
